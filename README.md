@@ -10,3 +10,5 @@ arm
 1.  [下载](https://gitee.com/simple_rocket_2/simple_rocket_apk/repository/archive/master.zip)
 
 2.  开包即安
+
+<a href='https://gitee.com/simple_rocket_2/simple_rocket_apk'><img src='https://gitee.com/simple_rocket_2/simple_rocket_apk/widgets/widget_3.svg' alt='Fork me on Gitee'></img></a>
