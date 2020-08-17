@@ -7,7 +7,7 @@
 arm
 
 #### 安装教程
-1.  [下载](https://gitee.com/simple_rocket_2/simple_rocket_apk/repository/archive/master.zip)
+1.  [下载](https://gitee.com/simple_rocket_2/simple_rocket_apk/raw/master/%E7%AE%80%E5%8D%95%E7%81%AB%E7%AE%AD2.apk)
 
 2.  开包即安
 
